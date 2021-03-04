@@ -1,7 +1,8 @@
 - 👋 Salut, je suis @whitezen-ctrl
 - 👀 Je suis intéressé par le développement web
-- 🌱 J'apprend actuellement le c# 
+- 🌱 J'apprend actuellement le c#
 - 💞️ Je cherche a collaboré avec des développeur back-end ou front-end
+- CERTIFIER HTML / CSS
 - 📫 Vous pouvez me joindre avec :
 
 Discord : WhiteZen#0001
