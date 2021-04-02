@@ -5,6 +5,6 @@
 - CERTIFIER HTML / CSS
 - 📫 Vous pouvez me joindre avec :
 
-Discord : WhiteZen#0001 n\
-Gmail : Shop2reunion@gmail.com n\
+Discord : WhiteZen#0001 \
+Gmail : Shop2reunion@gmail.com \
 Instagram : Plento2web
