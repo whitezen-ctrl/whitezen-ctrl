@@ -5,6 +5,6 @@
 -    certifié dev HTML / CSS
 - 📫 Vous pouvez me joindre avec :
 
-Discord : WhiteZen#2864 \
-Gmail : plentoweb@gmail.com \
-Instagram : Plento2web
+Facebook : Alain leseulrouw
+Gmail : plentobisness@gmail.com \
+Instagram : Alain leseulrouw
